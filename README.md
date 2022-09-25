@@ -42,5 +42,6 @@ Container это контейнер с фиксированной шириной
 
 ПРАКТИЧЕСКОЕ ЗАДАНИЕ 1
 
-![guesscss](https://user-images.githubusercontent.com/110172816/192138845-e448d73a-7460-496f-94a9-8252a4cd8c55.png)
+<img width="687" alt="guess_css" src="https://user-images.githubusercontent.com/110172816/192138878-b9ddc33a-f29b-4950-be90-e12140081f41.png">
+
 
